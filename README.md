@@ -1,7 +1,6 @@
-# wadiny
+# Tazkarti
 
-An app for order a car.
-
+Tazkarti is a user-friendly mobile application that makes booking event tickets easier than ever. Whether you’re looking for concerts, sports events, theater shows, or exhibitions, Tazkarti provides a seamless experience to browse, book, and manage your tickets in just a few taps
 ## Getting Started
 
 This project is a starting point for a Flutter application.
