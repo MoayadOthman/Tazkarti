@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "260880272383",
+    "project_id": "fireecommerce-11e32",
+    "storage_bucket": "fireecommerce-11e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260880272383:android:3375c852fcc7d339daf5ca",
+        "android_client_info": {
+          "package_name": "com.example.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260880272383-9ucngs15hq4cav6d1trajr72prmon82l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HyHNpaNx5g96PQZIbFzcm_z958nBV_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260880272383-9ucngs15hq4cav6d1trajr72prmon82l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260880272383-51niljjitf2ctqvh7fkkrmo4eoua7lj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wadiny"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260880272383:android:45802ea114b280d6daf5ca",
+        "android_client_info": {
+          "package_name": "com.example.s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260880272383-9ucngs15hq4cav6d1trajr72prmon82l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HyHNpaNx5g96PQZIbFzcm_z958nBV_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260880272383-9ucngs15hq4cav6d1trajr72prmon82l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260880272383-51niljjitf2ctqvh7fkkrmo4eoua7lj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wadiny"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260880272383:android:0785f9f191c7fe0ddaf5ca",
+        "android_client_info": {
+          "package_name": "com.example.wadiny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260880272383-9ucngs15hq4cav6d1trajr72prmon82l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HyHNpaNx5g96PQZIbFzcm_z958nBV_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260880272383-9ucngs15hq4cav6d1trajr72prmon82l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260880272383-51niljjitf2ctqvh7fkkrmo4eoua7lj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wadiny"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260880272383:android:b41d0ad4bd25ff0bdaf5ca",
+        "android_client_info": {
+          "package_name": "com.social.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260880272383-9ucngs15hq4cav6d1trajr72prmon82l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HyHNpaNx5g96PQZIbFzcm_z958nBV_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260880272383-9ucngs15hq4cav6d1trajr72prmon82l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260880272383-51niljjitf2ctqvh7fkkrmo4eoua7lj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wadiny"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
